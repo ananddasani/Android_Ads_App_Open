@@ -1,6 +1,8 @@
 # Android_Ads_App_Open
 Implementating App Open Ads in an android app
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### MyApplication.java (Nothing to do in MainActivity.java)
@@ -195,6 +197,5 @@ public class AppOpenManager implements LifecycleObserver, Application.ActivityLi
 
 # App Highlight
 
-<img src="app_images/Ad App Open Code.png" width="1000" /><br>
-
-<img src="app_images/Ad App Open App.png" width="300" /><br>
+![Ad App Open App](https://user-images.githubusercontent.com/74413402/192094363-ef92e624-dfa4-4835-ae4d-8f780aa6a584.png)
+![Ad App Open Code](https://user-images.githubusercontent.com/74413402/192094365-1c199395-ea02-42d2-915a-7eaac1fbc698.png)
